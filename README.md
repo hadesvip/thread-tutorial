@@ -1,2 +1,3 @@
-# thread-tutorial
-java多线程编程
+## java多线程编程
+1. 主要是多线程的学习
+
